@@ -1,0 +1,3 @@
+A total of 1500 data, each data is 400*400*147, save as npy file. 
+In addition, there are 1500 png files to facilitate the identification of images in npy files. 
+The png file is composed of three bands of 471.44nm, 535.06nm, and 602.94nm into an RGB image.
